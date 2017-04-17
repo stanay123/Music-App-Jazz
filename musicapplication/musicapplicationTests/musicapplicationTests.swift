@@ -1,15 +1,15 @@
 //
-//  MusicAppJazzTests.swift
-//  MusicAppJazzTests
+//  musicapplicationTests.swift
+//  musicapplicationTests
 //
 //  Created by Rachana Srivastava on 4/17/17.
 //  Copyright © 2017 Tanay Srivastava. All rights reserved.
 //
 
 import XCTest
-@testable import MusicAppJazz
+@testable import musicapplication
 
-class MusicAppJazzTests: XCTestCase {
+class musicapplicationTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

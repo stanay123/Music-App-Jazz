@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "808D949A1EA4EDCE009B87DC"
-               BuildableName = "MusicAppJazz.app"
-               BlueprintName = "MusicAppJazz"
-               ReferencedContainer = "container:MusicAppJazz.xcodeproj">
+               BlueprintIdentifier = "8033E3311EA4F1EE00117725"
+               BuildableName = "musicapplication.app"
+               BlueprintName = "musicapplication"
+               ReferencedContainer = "container:musicapplication.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "808D94B21EA4EDCE009B87DC"
-               BuildableName = "MusicAppJazzTests.xctest"
-               BlueprintName = "MusicAppJazzTests"
-               ReferencedContainer = "container:MusicAppJazz.xcodeproj">
+               BlueprintIdentifier = "8033E3491EA4F1EF00117725"
+               BuildableName = "musicapplicationTests.xctest"
+               BlueprintName = "musicapplicationTests"
+               ReferencedContainer = "container:musicapplication.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "808D94BD1EA4EDCE009B87DC"
-               BuildableName = "MusicAppJazzUITests.xctest"
-               BlueprintName = "MusicAppJazzUITests"
-               ReferencedContainer = "container:MusicAppJazz.xcodeproj">
+               BlueprintIdentifier = "8033E3541EA4F1EF00117725"
+               BuildableName = "musicapplicationUITests.xctest"
+               BlueprintName = "musicapplicationUITests"
+               ReferencedContainer = "container:musicapplication.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "808D949A1EA4EDCE009B87DC"
-            BuildableName = "MusicAppJazz.app"
-            BlueprintName = "MusicAppJazz"
-            ReferencedContainer = "container:MusicAppJazz.xcodeproj">
+            BlueprintIdentifier = "8033E3311EA4F1EE00117725"
+            BuildableName = "musicapplication.app"
+            BlueprintName = "musicapplication"
+            ReferencedContainer = "container:musicapplication.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "808D949A1EA4EDCE009B87DC"
-            BuildableName = "MusicAppJazz.app"
-            BlueprintName = "MusicAppJazz"
-            ReferencedContainer = "container:MusicAppJazz.xcodeproj">
+            BlueprintIdentifier = "8033E3311EA4F1EE00117725"
+            BuildableName = "musicapplication.app"
+            BlueprintName = "musicapplication"
+            ReferencedContainer = "container:musicapplication.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "808D949A1EA4EDCE009B87DC"
-            BuildableName = "MusicAppJazz.app"
-            BlueprintName = "MusicAppJazz"
-            ReferencedContainer = "container:MusicAppJazz.xcodeproj">
+            BlueprintIdentifier = "8033E3311EA4F1EE00117725"
+            BuildableName = "musicapplication.app"
+            BlueprintName = "musicapplication"
+            ReferencedContainer = "container:musicapplication.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
